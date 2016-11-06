@@ -1,0 +1,3 @@
+module UsefulLogs
+  # Your code goes here...
+end
