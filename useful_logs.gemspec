@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   ]
 
   s.add_dependency 'rails', '>= 4.2.6'
-  s.add_dependency 'lograge', '~> 0.4.1'
+  s.add_dependency 'lograge', '~> 0.4'
   s.add_dependency 'configatron', '~> 4.5'
 
   s.add_development_dependency 'pry'
